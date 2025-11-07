@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @StellanBS
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning JavaScript & Python
-- 💞️ I’m looking to collaborate on idk
-- 📫 Reach me on dm
+# Hi, I’m Stellan Ban Spaak 👋
 
-<!---
-StellanBS/StellanBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**MSc Industrial Engineering & Management @ KTH** (GPA 5.0/5.0). Summer 2025: **Summer Associate @ Sana Labs (Stockholm)**. Interests: optimization, network flows, quantitative analysis, climate data, and learning platforms.
+
+**Contact**:
+· [LinkedIn](https://www.linkedin.com/in/stellanbs/) 
+· [Email](mailto:stellan.spaak.03@gmail.com)
